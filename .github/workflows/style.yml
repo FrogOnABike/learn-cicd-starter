@@ -20,5 +20,3 @@ jobs:
 
       - name: Run formatting checks
         run: test -z $(go fmt ./...)
-
- 
